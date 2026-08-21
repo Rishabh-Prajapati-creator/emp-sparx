@@ -14,4 +14,9 @@ st.subheader('data science and ML/AI')
 st.subheader('data analysis')
 st.subheader('SQL')
 
-
+st.sidebar.title("Menu")
+st.sidebar.markdown("""
+- Home
+- About
+- Contact
+""")
