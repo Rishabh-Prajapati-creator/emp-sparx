@@ -5,7 +5,7 @@ st.title('CAMPUSx')
 col1, col2 = st.columns(2)
 
 with col1:
-    st.image('mobile_logo1.png')
+    st.image('total sal.png')
 with col2:
     st.write("""lorem50sajd;ffffffffffffffffffff;uqrrrrrrrrrrrrrrrrrrrrrnafbbbbbbbbbbbbbbdhhhhhhhhhhhhhhhhhhueeeeeeeeeeeeeeeeyralf""")
 
